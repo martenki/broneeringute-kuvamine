@@ -84,10 +84,10 @@ Kui muudad andmeallika aadressi, muuda `DATA_URL` väärtust failis `app.js`. An
 
 ## Avaldamine GitHub Pagesis
 
-1. Laadi projekti failid GitHubi repositooriumi.
+1. Laadi projekti failid [GitHubi repositooriumi](https://github.com/martenki/broneeringute-kuvamine).
 2. Ava repositooriumis **Settings → Pages**.
 3. Vali **Deploy from a branch**, haruks `main` ja kaustaks `/ (root)`, seejärel salvesta.
-4. Pärast avaldamist ava GitHub Pagesi seadetes kuvatud aadress kujul `https://<kasutajanimi>.github.io/<repositoorium>/`.
+4. Pärast avaldamist ava [Maison GitHub Pagesis](https://martenki.github.io/broneeringute-kuvamine/).
 
 GitHub Pages kuvab staatilisi faile ega paku andmebaasi ega serveripoolset API-t. Rakenduse töötamiseks peab väline JSON-aadress olema kättesaadav ja lubama GitHub Pagesi päritolust päringuid.
 
